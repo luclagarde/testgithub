@@ -3,7 +3,7 @@
 ## @showdialog
 Ce tutoriel a été créer par :
  
-![RECITMST](./testgithub/logomst.png)  
+![RECITMST] (/blob/master/logomst.png)
 ## @showdialog
  
 Construis ton propre compteur!
