@@ -1,9 +1,5 @@
 # Tutoriel compteur
 
-```template
-input.onButtonPressed(Button.A, function ())
-```
-
 ## @showdialog
 Ce tutoriel a été créer par :
  
