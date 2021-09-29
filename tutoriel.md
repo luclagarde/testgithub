@@ -10,7 +10,7 @@ Ce tutoriel a été créer par :
 ![RECITMST](logomst.png)  
 ## @showdialog
  
-Construis ton compteur!
+Construis ton propre compteur!
  
 ![Compteur](
 https://raw.githubusercontent.com/recitmstmam/mes-tutoriels/master/static/compteur.gif
