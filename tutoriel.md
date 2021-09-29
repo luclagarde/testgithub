@@ -7,7 +7,7 @@ input.onButtonPressed(Button.A, function ())
 ## @showdialog
 Ce tutoriel a été créer par :
  
-![RECITMST](mes-tutoriels/blob/master/static/logomst%20transparant.png)  
+![RECITMST](./logomst.png)  
 ## @showdialog
  
 Construis ton compteur!
