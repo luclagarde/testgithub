@@ -3,7 +3,7 @@
 ## @showdialog
 Ce tutoriel a été créer par :
  
-![RECITMST] (/blob/master/logomst.png)
+![RECITMST](logomst.png)
 ## @showdialog
  
 Construis ton propre compteur!
